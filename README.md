@@ -19,7 +19,7 @@ applied mathematics, scientific computing, and industrial computed tomography (C
 
 ## 🔬 Projects
 
-- **[Epipolar Consistency in Transmission Imaging](https://github.com/harisazam7/zeiss-internship)** — Modeling Project (University of Bremen × Carl Zeiss GOM Metrology).
+- **Epipolar Consistency in Transmission Imaging** — Modeling Project (University of Bremen × Carl Zeiss GOM Metrology).
   Using epipolar consistency conditions (ECC) to detect geometric errors in industrial CT directly from X-ray projections.
 - **[Hierarchical Data Layouts for Scientific Data](https://github.com/harisazam7/hpv-precision-resolution)** — High Performance and Visualization course.
   Studying precision–resolution trees for progressive access to large scalar fields.
